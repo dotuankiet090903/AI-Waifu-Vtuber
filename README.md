@@ -66,7 +66,9 @@ You can download VoiceVox Docker on this website: https://www.docker.com/product
 
 8. Sound available online
 
-You can check available sound on this website: https://voicevox.hiroshiba.jp/
+You can check available sound on this website: https://voicevox.hiroshiba.jp/ 
+
+You can check the sound used on TTS.py
 
 9. If you want to use the audio output from the program as an input for your `Vtubestudio`. You will need to capture your desktop audio using `Virtual Cable` and use it as input on VtubeStudio microphone.
 
