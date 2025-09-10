@@ -1,0 +1,2 @@
+GPT_api_key = "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"
+Gemini_api_key = "AIzaSyCs39Qszi4VfUqCrQRGUbaAQQpBlIz8K64"

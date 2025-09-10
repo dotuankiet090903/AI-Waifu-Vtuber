@@ -1,0 +1,22 @@
+[
+    {
+        "role": "user",
+        "content": "Kiet said the weather today"
+    },
+    {
+        "role": "model",
+        "content": "Kiet said what about the weather today?\n"
+    },
+    {
+        "role": "user",
+        "content": "Kiet said what is the weather today"
+    },
+    {
+        "role": "model",
+        "content": "I need more information to answer.  What is Kiet's location?\n"
+    },
+    {
+        "role": "user",
+        "content": "Kiet said Vietnamese Vietnamese song"
+    }
+]
